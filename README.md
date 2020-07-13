@@ -13,6 +13,8 @@ https://github.com/nasa-jpl/LiveViewOpenSource/wiki/Installation-Guide
 ## Getting started with Sample Data
 https://github.com/nasa-jpl/LiveViewOpenSource/wiki/Getting-started-with-the-sample-data
 
+## Getting started with the LiveView Image Server
+https://github.com/nasa-jpl/LiveViewOpenSource/wiki/Getting-started-with-the-image-server
 
 ## Development
 https://github.com/nasa-jpl/LiveViewOpenSource/projects
